@@ -1,0 +1,8 @@
+{
+  "name": "whoami",
+  "description": "whoami",
+  "repository": "https://github.com/zeroclan8/whoami",
+  "logo": "http://whoami.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
